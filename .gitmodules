@@ -1,0 +1,3 @@
+[submodule "ides/neovim-lazyvim"]
+	path = ides/neovim-lazyvim
+	url = https://github.com/aymanapatel/neovim-lazyvim.git
